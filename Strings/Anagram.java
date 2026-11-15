@@ -11,7 +11,7 @@ public class Anagram {
         String str2 = sc.nextLine().toLowerCase();
 
         char [] a = str1.toCharArray();
-        char []b = str2.toCharArray();
+        char [] b = str2.toCharArray();
 
         if(a.length==b.length){
 
