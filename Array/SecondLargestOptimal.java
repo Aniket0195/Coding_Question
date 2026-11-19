@@ -4,7 +4,7 @@ public class SecondLargestOptimal {
 
     public static void main(String[] args) {
         
-        int [] arr = {1,2,22,1,24g,4,5,6,7,8,};
+        int [] arr = {1,2,22,1,24,4,5,6,7,8,};
 
         int largest = arr[0];
         int secondLargest=-1;
